@@ -1,0 +1,538 @@
+{
+    "version": "0.4",
+    "title": "Block: Pricing",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-pricing",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "6d41ea2c",
+            "settings": {
+                "gap": "no",
+                "structure": "30",
+                "margin": {
+                    "unit": "px",
+                    "top": "160",
+                    "right": 0,
+                    "bottom": "160",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "margin_tablet": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": 0,
+                    "bottom": "80",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "margin_mobile": {
+                    "unit": "px",
+                    "top": "60",
+                    "right": 0,
+                    "bottom": "60",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "50",
+                    "bottom": "0",
+                    "left": "50",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "20",
+                    "bottom": "0",
+                    "left": "20",
+                    "isLinked": false
+                },
+                "_title": "Pricing"
+            },
+            "elements": [
+                {
+                    "id": "4e3aa2bb",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null,
+                        "_inline_size_tablet": 50,
+                        "space_between_widgets_tablet": 0,
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "20",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "margin_tablet": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "15",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "30",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "5dec4c0b",
+                            "settings": {
+                                "heading": "Group of 7+ Adults",
+                                "sub_heading": "",
+                                "price": "29",
+                                "period": " per person",
+                                "features_list": [
+                                    {
+                                        "item_text": "Tellus fames rutrum tellus",
+                                        "selected_item_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "6a37f23"
+                                    },
+                                    {
+                                        "item_text": "Viverra justo nec ultrices",
+                                        "selected_item_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "60c20ad"
+                                    },
+                                    {
+                                        "item_text": "Orci ac auctor augue mauris",
+                                        "selected_item_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "f330b9f"
+                                    }
+                                ],
+                                "button_text": "Book Now",
+                                "link": {
+                                    "url": "\/",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "footer_additional_info": "",
+                                "show_ribbon": "",
+                                "ribbon_title": "Popular",
+                                "header_bg_color": "#F5F8F2",
+                                "header_padding": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "heading_color": "#4C3A32",
+                                "heading_typography_typography": "custom",
+                                "heading_typography_font_family": "Playfair Display",
+                                "heading_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 24,
+                                    "sizes": []
+                                },
+                                "pricing_element_bg_color": "#F5F8F2",
+                                "price_color": "#88B44E",
+                                "price_typography_font_family": "Montserrat",
+                                "fractional-part_size": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "period_color": "#6F6F6F",
+                                "period_typography_typography": "custom",
+                                "period_typography_line_height": {
+                                    "unit": "em",
+                                    "size": 2,
+                                    "sizes": []
+                                },
+                                "features_list_bg_color": "#F5F8F2",
+                                "features_list_color": "#6F6F6F",
+                                "features_list_typography_typography": "custom",
+                                "features_list_typography_font_family": "Montserrat",
+                                "features_list_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 18,
+                                    "sizes": []
+                                },
+                                "divider_color": "#6F6F6F21",
+                                "divider_weight": {
+                                    "unit": "px",
+                                    "size": 1,
+                                    "sizes": []
+                                },
+                                "divider_width": {
+                                    "unit": "px",
+                                    "size": 80,
+                                    "sizes": []
+                                },
+                                "divider_gap": {
+                                    "unit": "px",
+                                    "size": 12,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "header_bg_color": "globals\/colors?id=9acda34",
+                                    "heading_color": "globals\/colors?id=primary",
+                                    "price_color": "globals\/colors?id=accent",
+                                    "price_typography_typography": "",
+                                    "period_color": "globals\/colors?id=text",
+                                    "features_list_bg_color": "globals\/colors?id=9acda34",
+                                    "pricing_element_bg_color": "globals\/colors?id=9acda34",
+                                    "features_list_color": "globals\/colors?id=text",
+                                    "features_list_typography_typography": "",
+                                    "heading_typography_typography": "",
+                                    "divider_color": "",
+                                    "footer_bg_color": "globals\/colors?id=9acda34"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "price-table",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "5cc7f76c",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null,
+                        "_inline_size_tablet": 50,
+                        "space_between_widgets": 0,
+                        "space_between_widgets_tablet": 0,
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "10",
+                            "bottom": "0",
+                            "left": "10",
+                            "isLinked": false
+                        },
+                        "margin_tablet": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "15",
+                            "isLinked": false
+                        },
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "30",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "170cc73e",
+                            "settings": {
+                                "heading": "Shared Tea Ceremony",
+                                "sub_heading": "",
+                                "price": "18",
+                                "period": " per person",
+                                "features_list": [
+                                    {
+                                        "item_text": "Malesuada bibendum arcu",
+                                        "selected_item_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "6a37f23"
+                                    },
+                                    {
+                                        "item_text": "Posuere lorem ipsum",
+                                        "selected_item_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "60c20ad"
+                                    },
+                                    {
+                                        "item_text": "Enim eu turpis egestas ",
+                                        "selected_item_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "f330b9f"
+                                    }
+                                ],
+                                "button_text": "Book Now",
+                                "link": {
+                                    "url": "\/",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "footer_additional_info": "",
+                                "show_ribbon": "",
+                                "ribbon_title": "Popular",
+                                "header_bg_color": "#F5F8F2",
+                                "header_padding": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "heading_color": "#4C3A32",
+                                "heading_typography_typography": "custom",
+                                "heading_typography_font_family": "Playfair Display",
+                                "heading_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 24,
+                                    "sizes": []
+                                },
+                                "pricing_element_bg_color": "#F5F8F2",
+                                "price_color": "#88B44E",
+                                "price_typography_font_family": "Montserrat",
+                                "fractional-part_size": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "period_color": "#6F6F6F",
+                                "period_typography_typography": "custom",
+                                "period_typography_line_height": {
+                                    "unit": "em",
+                                    "size": 2,
+                                    "sizes": []
+                                },
+                                "features_list_bg_color": "#F5F8F2",
+                                "features_list_color": "#6F6F6F",
+                                "features_list_typography_typography": "custom",
+                                "features_list_typography_font_family": "Montserrat",
+                                "features_list_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 18,
+                                    "sizes": []
+                                },
+                                "divider_color": "#6F6F6F21",
+                                "divider_weight": {
+                                    "unit": "px",
+                                    "size": 1,
+                                    "sizes": []
+                                },
+                                "divider_width": {
+                                    "unit": "px",
+                                    "size": 80,
+                                    "sizes": []
+                                },
+                                "divider_gap": {
+                                    "unit": "px",
+                                    "size": 12,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "header_bg_color": "globals\/colors?id=9acda34",
+                                    "heading_color": "globals\/colors?id=primary",
+                                    "price_color": "globals\/colors?id=accent",
+                                    "price_typography_typography": "",
+                                    "period_color": "globals\/colors?id=text",
+                                    "features_list_bg_color": "globals\/colors?id=9acda34",
+                                    "pricing_element_bg_color": "globals\/colors?id=9acda34",
+                                    "features_list_color": "globals\/colors?id=text",
+                                    "features_list_typography_typography": "",
+                                    "heading_typography_typography": "",
+                                    "divider_color": "",
+                                    "footer_bg_color": "globals\/colors?id=9acda34"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "price-table",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "8bdd4eb",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null,
+                        "_inline_size_tablet": 100,
+                        "space_between_widgets": 0,
+                        "space_between_widgets_tablet": 0,
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "20",
+                            "isLinked": false
+                        },
+                        "margin_tablet": {
+                            "unit": "px",
+                            "top": "30",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "501c3ffe",
+                            "settings": {
+                                "heading": "Private Tea Ceremony",
+                                "sub_heading": "",
+                                "price": "45",
+                                "period": " per person",
+                                "features_list": [
+                                    {
+                                        "item_text": "Duis at consectetur lorem",
+                                        "selected_item_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "6a37f23"
+                                    },
+                                    {
+                                        "item_text": "Ac feugiat sed lectus",
+                                        "selected_item_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "60c20ad"
+                                    },
+                                    {
+                                        "item_text": "Gravida arcu ac",
+                                        "selected_item_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "f330b9f"
+                                    }
+                                ],
+                                "button_text": "Book Now",
+                                "link": {
+                                    "url": "\/",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "footer_additional_info": "",
+                                "show_ribbon": "",
+                                "ribbon_title": "Popular",
+                                "header_bg_color": "#F5F8F2",
+                                "header_padding": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "heading_color": "#4C3A32",
+                                "heading_typography_typography": "custom",
+                                "heading_typography_font_family": "Playfair Display",
+                                "heading_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 24,
+                                    "sizes": []
+                                },
+                                "pricing_element_bg_color": "#F5F8F2",
+                                "price_color": "#88B44E",
+                                "price_typography_font_family": "Montserrat",
+                                "fractional-part_size": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "period_color": "#6F6F6F",
+                                "period_typography_typography": "custom",
+                                "period_typography_line_height": {
+                                    "unit": "em",
+                                    "size": 2,
+                                    "sizes": []
+                                },
+                                "features_list_bg_color": "#F5F8F2",
+                                "features_list_color": "#6F6F6F",
+                                "features_list_typography_typography": "custom",
+                                "features_list_typography_font_family": "Montserrat",
+                                "features_list_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 18,
+                                    "sizes": []
+                                },
+                                "divider_color": "#6F6F6F21",
+                                "divider_weight": {
+                                    "unit": "px",
+                                    "size": 1,
+                                    "sizes": []
+                                },
+                                "divider_width": {
+                                    "unit": "px",
+                                    "size": 80,
+                                    "sizes": []
+                                },
+                                "divider_gap": {
+                                    "unit": "px",
+                                    "size": 12,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "header_bg_color": "globals\/colors?id=9acda34",
+                                    "heading_color": "globals\/colors?id=primary",
+                                    "price_color": "globals\/colors?id=accent",
+                                    "price_typography_typography": "",
+                                    "period_color": "globals\/colors?id=text",
+                                    "features_list_bg_color": "globals\/colors?id=9acda34",
+                                    "pricing_element_bg_color": "globals\/colors?id=9acda34",
+                                    "features_list_color": "globals\/colors?id=text",
+                                    "features_list_typography_typography": "",
+                                    "heading_typography_typography": "",
+                                    "divider_color": "",
+                                    "footer_bg_color": "globals\/colors?id=9acda34"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "price-table",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}

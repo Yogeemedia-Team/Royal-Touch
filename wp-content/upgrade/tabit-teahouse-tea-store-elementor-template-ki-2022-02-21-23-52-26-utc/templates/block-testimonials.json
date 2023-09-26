@@ -1,0 +1,517 @@
+{
+    "version": "0.4",
+    "title": "Block: Testimonials",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-testimonial",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "7b4f0d97",
+            "settings": {
+                "gap": "no",
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "margin_tablet": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "margin_mobile": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "140",
+                    "right": "0",
+                    "bottom": "140",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": "50",
+                    "bottom": "80",
+                    "left": "50",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "60",
+                    "right": "5",
+                    "bottom": "60",
+                    "left": "5",
+                    "isLinked": false
+                },
+                "_title": "Testimonials",
+                "content_position": "middle",
+                "structure": "20",
+                "background_background": "classic",
+                "background_image": {
+                    "url": "https:\/\/tabit-elementor.nelly-k.com\/wp-content\/uploads\/2020\/11\/chinese-tea-ceremony-PTPXKRA.jpg",
+                    "id": 2635
+                },
+                "background_image_tablet": {
+                    "url": "https:\/\/tabit-elementor.nelly-k.com\/wp-content\/uploads\/2020\/11\/chinese-tea-ceremony-PTPXKRA.jpg",
+                    "id": 2635
+                },
+                "background_position": "center center",
+                "background_position_tablet": "center right",
+                "background_attachment": "fixed",
+                "background_repeat": "no-repeat",
+                "background_repeat_tablet": "no-repeat",
+                "background_size": "cover",
+                "background_size_tablet": "cover",
+                "background_overlay_background": "classic",
+                "background_overlay_color": "#211A18DB",
+                "__globals__": {
+                    "background_overlay_color": ""
+                },
+                "background_image_mobile": {
+                    "url": "https:\/\/tabit-elementor.nelly-k.com\/wp-content\/uploads\/2020\/11\/chinese-tea-ceremony-PTPXKRA.jpg",
+                    "id": 2635
+                }
+            },
+            "elements": [
+                {
+                    "id": "2fb40627",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 70,
+                        "space_between_widgets": 0,
+                        "space_between_widgets_mobile": 0
+                    },
+                    "elements": [
+                        {
+                            "id": "569dbd8e",
+                            "settings": {
+                                "slides": [
+                                    {
+                                        "content": "Augue interdum velit euismod in pellentesque massa placerat duis. In massa tempor nec feugiat nisl pretium. Massa sapien faucibus et molestie ac feugiat sed lectus, malesuada pellentesque elit eget gravida. ",
+                                        "name": "Sonia Batter",
+                                        "title": "",
+                                        "image": {
+                                            "url": "https:\/\/tabit-elementor.nelly-k.com\/wp-content\/uploads\/2020\/10\/friendly-women-X7Y8WJR2.jpg",
+                                            "id": 1235
+                                        },
+                                        "_id": "369ffcd"
+                                    },
+                                    {
+                                        "content": "Phasellus faucibus scelerisque eleifend donec pretium. Eget nulla facilisi etiam dignissim diam quis. Ut consequat semper viverra nam libero. Quis eleifend quam adipiscing vitae proin, bibendum ut tristique et. ",
+                                        "name": "David Goodman",
+                                        "title": "",
+                                        "image": {
+                                            "url": "https:\/\/tabit-elementor.nelly-k.com\/wp-content\/uploads\/2020\/10\/talk-in-cozy-cafe-B5NK76T.jpg",
+                                            "id": 1236
+                                        },
+                                        "_id": "7552ad6"
+                                    },
+                                    {
+                                        "content": "Leo vel fringilla est ullamcorper eget nulla facilisi etiam. Tortor aliquam nulla facilisi cras. Integer eget aliquet nibh praesent tristique. Feugiat vivamus at augue eget arcu dictum.",
+                                        "name": "Jody McDonald",
+                                        "title": "",
+                                        "image": {
+                                            "url": "https:\/\/tabit-elementor.nelly-k.com\/wp-content\/uploads\/2020\/10\/friendly-women-X7Y8WJR.jpg",
+                                            "id": 1234
+                                        },
+                                        "_id": "f9cb717"
+                                    }
+                                ],
+                                "layout": "image_above",
+                                "alignment": "left",
+                                "slides_per_view": "1",
+                                "width": {
+                                    "unit": "%",
+                                    "size": 90,
+                                    "sizes": []
+                                },
+                                "width_tablet": {
+                                    "unit": "%",
+                                    "size": 90,
+                                    "sizes": []
+                                },
+                                "width_mobile": {
+                                    "unit": "%",
+                                    "size": 95,
+                                    "sizes": []
+                                },
+                                "pagination": "",
+                                "space_between": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "space_between_mobile": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "slide_background_color": "#FFFFFF",
+                                "slide_border_size": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "slide_padding": {
+                                    "unit": "px",
+                                    "top": "48",
+                                    "right": "48",
+                                    "bottom": "48",
+                                    "left": "48",
+                                    "isLinked": true
+                                },
+                                "content_gap": {
+                                    "unit": "px",
+                                    "size": 24,
+                                    "sizes": []
+                                },
+                                "content_gap_tablet": {
+                                    "unit": "px",
+                                    "size": 24,
+                                    "sizes": []
+                                },
+                                "content_gap_mobile": {
+                                    "unit": "px",
+                                    "size": 20,
+                                    "sizes": []
+                                },
+                                "content_color": "#6F6F6F",
+                                "content_typography_typography": "custom",
+                                "content_typography_font_family": "Montserrat",
+                                "content_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 20,
+                                    "sizes": []
+                                },
+                                "content_typography_font_size_tablet": {
+                                    "unit": "px",
+                                    "size": 18,
+                                    "sizes": []
+                                },
+                                "content_typography_font_weight": "300",
+                                "name_typography_typography": "custom",
+                                "name_typography_font_family": "Playfair Display",
+                                "name_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 18,
+                                    "sizes": []
+                                },
+                                "name_typography_font_size_tablet": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "name_typography_font_weight": "600",
+                                "name_typography_font_style": "normal",
+                                "name_typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": 1,
+                                    "sizes": []
+                                },
+                                "title_typography_typography": "custom",
+                                "image_size": {
+                                    "unit": "px",
+                                    "size": 150,
+                                    "sizes": []
+                                },
+                                "image_size_tablet": {
+                                    "unit": "px",
+                                    "size": 120,
+                                    "sizes": []
+                                },
+                                "image_size_mobile": {
+                                    "unit": "px",
+                                    "size": 90,
+                                    "sizes": []
+                                },
+                                "image_gap": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "arrows_size": {
+                                    "unit": "px",
+                                    "size": 32,
+                                    "sizes": []
+                                },
+                                "arrows_color": "#FFFFFF",
+                                "pagination_size": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "pagination_color": "#F5F8F2",
+                                "__globals__": {
+                                    "slide_background_color": "globals\/colors?id=secondary",
+                                    "arrows_color": "globals\/colors?id=secondary",
+                                    "pagination_color": "globals\/colors?id=9acda34",
+                                    "content_typography_typography": "",
+                                    "content_color": "globals\/colors?id=text",
+                                    "name_typography_typography": "",
+                                    "name_color": "globals\/colors?id=405d4c4"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "testimonial-carousel",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "6cebe6f6",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 30,
+                        "align_mobile": "center",
+                        "space_between_widgets": 0,
+                        "space_between_widgets_mobile": 0,
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "180",
+                            "isLinked": false
+                        },
+                        "margin_tablet": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "50",
+                            "isLinked": false
+                        },
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "30",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "698740e",
+                            "settings": {
+                                "ending_number": 38,
+                                "thousand_separator": "",
+                                "title": "Tea Varieties",
+                                "number_color": "#FFFFFF",
+                                "typography_number_typography": "custom",
+                                "typography_number_font_family": "Playfair Display",
+                                "typography_number_font_size": {
+                                    "unit": "px",
+                                    "size": 60,
+                                    "sizes": []
+                                },
+                                "typography_number_font_size_tablet": {
+                                    "unit": "px",
+                                    "size": 50,
+                                    "sizes": []
+                                },
+                                "typography_number_line_height": {
+                                    "unit": "em",
+                                    "size": 1.1999999999999999555910790149937383830547332763671875,
+                                    "sizes": []
+                                },
+                                "typography_title_typography": "custom",
+                                "typography_title_font_size": {
+                                    "unit": "px",
+                                    "size": 18,
+                                    "sizes": []
+                                },
+                                "typography_title_font_size_tablet": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "typography_title_font_weight": "300",
+                                "_margin_mobile": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "30",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_element_width_mobile": "auto",
+                                "__globals__": {
+                                    "number_color": "globals\/colors?id=secondary",
+                                    "typography_number_typography": "",
+                                    "title_color": "globals\/colors?id=secondary"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "counter",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "5c6b4b27",
+                            "settings": {
+                                "ending_number": 250,
+                                "suffix": "+",
+                                "title": "Quality Products",
+                                "number_color": "#FFFFFF",
+                                "typography_number_typography": "custom",
+                                "typography_number_font_family": "Playfair Display",
+                                "typography_number_font_size": {
+                                    "unit": "px",
+                                    "size": 60,
+                                    "sizes": []
+                                },
+                                "typography_number_font_size_tablet": {
+                                    "unit": "px",
+                                    "size": 50,
+                                    "sizes": []
+                                },
+                                "typography_number_line_height": {
+                                    "unit": "em",
+                                    "size": 1.1999999999999999555910790149937383830547332763671875,
+                                    "sizes": []
+                                },
+                                "typography_title_typography": "custom",
+                                "typography_title_font_size": {
+                                    "unit": "px",
+                                    "size": 18,
+                                    "sizes": []
+                                },
+                                "typography_title_font_size_tablet": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "typography_title_font_weight": "300",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "0",
+                                    "bottom": "30",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_margin_mobile": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "30",
+                                    "isLinked": false
+                                },
+                                "_element_width_mobile": "auto",
+                                "__globals__": {
+                                    "number_color": "globals\/colors?id=secondary",
+                                    "typography_number_typography": "",
+                                    "title_color": "globals\/colors?id=secondary"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "counter",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "fbb70a8",
+                            "settings": {
+                                "ending_number": 769,
+                                "title": "Happy Customers",
+                                "number_color": "#FFFFFF",
+                                "typography_number_typography": "custom",
+                                "typography_number_font_family": "Playfair Display",
+                                "typography_number_font_size": {
+                                    "unit": "px",
+                                    "size": 60,
+                                    "sizes": []
+                                },
+                                "typography_number_font_size_tablet": {
+                                    "unit": "px",
+                                    "size": 50,
+                                    "sizes": []
+                                },
+                                "typography_number_line_height": {
+                                    "unit": "em",
+                                    "size": 1.1999999999999999555910790149937383830547332763671875,
+                                    "sizes": []
+                                },
+                                "typography_title_typography": "custom",
+                                "typography_title_font_size": {
+                                    "unit": "px",
+                                    "size": 18,
+                                    "sizes": []
+                                },
+                                "typography_title_font_size_tablet": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "typography_title_font_weight": "300",
+                                "_margin_mobile": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_padding_mobile": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "__globals__": {
+                                    "number_color": "globals\/colors?id=secondary",
+                                    "typography_number_typography": "",
+                                    "title_color": "globals\/colors?id=secondary"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "counter",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}

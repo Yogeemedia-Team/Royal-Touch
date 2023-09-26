@@ -1,0 +1,390 @@
+{
+    "version": "0.4",
+    "title": "Block: Experience",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-other",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "4e33ec8a",
+            "settings": {
+                "gap": "no",
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "margin_tablet": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "margin_mobile": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "140",
+                    "right": "0",
+                    "bottom": "140",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": "50",
+                    "bottom": "80",
+                    "left": "50",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "60",
+                    "right": "20",
+                    "bottom": "60",
+                    "left": "20",
+                    "isLinked": false
+                },
+                "_title": "Experience",
+                "content_position": "middle",
+                "background_background": "classic",
+                "background_image": {
+                    "url": "https:\/\/tabit-elementor.nelly-k.com\/wp-content\/uploads\/2020\/11\/chinese-tea-ceremony-PTPXKRA.jpg",
+                    "id": 2635
+                },
+                "background_image_tablet": {
+                    "url": "https:\/\/tabit-elementor.nelly-k.com\/wp-content\/uploads\/2020\/11\/chinese-tea-ceremony-PTPXKRA.jpg",
+                    "id": 2635
+                },
+                "background_position": "center center",
+                "background_position_tablet": "center right",
+                "background_attachment": "fixed",
+                "background_repeat": "no-repeat",
+                "background_repeat_tablet": "no-repeat",
+                "background_size": "cover",
+                "background_size_tablet": "cover",
+                "background_overlay_background": "classic",
+                "background_overlay_color": "#211A18DB",
+                "__globals__": {
+                    "background_overlay_color": ""
+                },
+                "background_image_mobile": {
+                    "url": "https:\/\/tabit-elementor.nelly-k.com\/wp-content\/uploads\/2020\/11\/chinese-tea-ceremony-PTPXKRA.jpg",
+                    "id": 2635
+                }
+            },
+            "elements": [
+                {
+                    "id": "11e36d23",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "align_mobile": "center",
+                        "space_between_widgets": 0,
+                        "space_between_widgets_mobile": 0,
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "margin_tablet": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "626d3a4e",
+                            "settings": {
+                                "animation_type": "slide-down",
+                                "before_text": "Many Years of ",
+                                "highlighted_text": " Experience",
+                                "rotating_text": "Green Tea\nWhite Tea\nFruit Tea",
+                                "tag": "h2",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "60",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_margin_mobile": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "30",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "_padding_mobile": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "__globals__": {
+                                    "marker_color": "",
+                                    "title_color": "globals\/colors?id=secondary",
+                                    "words_color": "globals\/colors?id=accent"
+                                },
+                                "marker": "curly",
+                                "marker_color": "#FFFFFF00",
+                                "stroke_width": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "title_color": "#FFFFFF",
+                                "words_color": "#88B44E"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "animated-headline",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "37221a64",
+                            "settings": {
+                                "gap": "no",
+                                "structure": "20",
+                                "margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": 0,
+                                    "bottom": "0",
+                                    "left": 0,
+                                    "isLinked": true
+                                },
+                                "reverse_order_tablet": "reverse-tablet",
+                                "reverse_order_mobile": "reverse-mobile"
+                            },
+                            "elements": [
+                                {
+                                    "id": "276c172d",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null,
+                                        "_inline_size_tablet": 100,
+                                        "space_between_widgets": 0,
+                                        "space_between_widgets_tablet": 0,
+                                        "content_position": "center"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "7cb14371",
+                                            "settings": {
+                                                "tabs": [
+                                                    {
+                                                        "tab_title": "2003",
+                                                        "tab_content": " Bibendum arcu vitae elementum curabitur vitae. Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus. Auctor elit sed vulputate mi sit. Semper quis lectus nulla at volutpat diam ut venenatis tellus. Sed risus ultricies tristique nulla. Sed turpis tincidunt id aliquet risus feugiat. Laoreet non curabitur gravida arcu. ",
+                                                        "_id": "f669ce7"
+                                                    },
+                                                    {
+                                                        "tab_title": "2004",
+                                                        "tab_content": "Nunc sed id semper risus in hendrerit. Vivamus arcu felis bibendum ut tristique. Vulputate enim nulla aliquet porttitor lacus luctus accumsan tortor. Mi quis hendrerit dolor magna eget. Justo eget magna fermentum iaculis eu non diam phasellus vestibulum. Volutpat sed cras ornare arcu.",
+                                                        "_id": "c24ebb2"
+                                                    },
+                                                    {
+                                                        "tab_title": "2005",
+                                                        "tab_content": "<p>Suspendisse ultrices gravida dictum fusce ut. Feugiat scelerisque varius morbi enim nunc faucibus. Tristique senectus et netus et malesuada fames ac. A lacus vestibulum sed arcu non odio euismod. Etiam erat velit scelerisque in dictum non consectetur a. Lobortis mattis aliquam faucibus purus. Platea dictumst quisque sagittis purus sit amet.<\/p>",
+                                                        "_id": "bef62f1"
+                                                    },
+                                                    {
+                                                        "tab_title": "2019",
+                                                        "tab_content": "Quis varius quam quisque id diam vel quam elementum. Commodo sed egestas egestas fringilla phasellus faucibus scelerisque. Pellentesque pulvinar pellentesque habitant morbi tristique senectus et netus. Duis at consectetur lorem donec massa sapien faucibus. Tellus rutrum tellus pellentesque eu tincidunt tortor aliquam.",
+                                                        "_id": "222ee68"
+                                                    },
+                                                    {
+                                                        "tab_title": "2020",
+                                                        "tab_content": "Turpis tincidunt id aliquet risus. Id donec ultrices tincidunt arcu non sodales neque sodales ut. Eleifend quam adipiscing vitae proin. Amet risus nullam eget felis. Consequat mauris nunc congue nisi vitae. In hac habitasse platea dictumst. Sagittis orci a scelerisque purus semper eget duis. ",
+                                                        "_id": "d90da94"
+                                                    }
+                                                ],
+                                                "type": "vertical",
+                                                "navigation_width": {
+                                                    "unit": "%",
+                                                    "size": 16,
+                                                    "sizes": []
+                                                },
+                                                "border_width": {
+                                                    "unit": "px",
+                                                    "size": 0,
+                                                    "sizes": []
+                                                },
+                                                "tab_color": "#FFFFFF",
+                                                "tab_active_color": "#88B44E",
+                                                "tab_typography_typography": "custom",
+                                                "tab_typography_font_family": "Playfair Display",
+                                                "tab_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 20,
+                                                    "sizes": []
+                                                },
+                                                "tab_typography_line_height": {
+                                                    "unit": "em",
+                                                    "size": 0.5,
+                                                    "sizes": []
+                                                },
+                                                "content_color": "#FFFFFF",
+                                                "content_typography_typography": "custom",
+                                                "content_typography_font_family": "Montserrat",
+                                                "content_typography_font_weight": "300",
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": true
+                                                },
+                                                "_padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": true
+                                                },
+                                                "__globals__": {
+                                                    "content_color": "globals\/colors?id=secondary",
+                                                    "content_typography_typography": "",
+                                                    "background_color": "",
+                                                    "tab_color": "globals\/colors?id=secondary",
+                                                    "tab_active_color": "globals\/colors?id=accent",
+                                                    "tab_typography_typography": "",
+                                                    "border_color": "globals\/colors?id=accent"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "tabs",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "22c9248f",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null,
+                                        "space_between_widgets": 0,
+                                        "space_between_widgets_mobile": 0,
+                                        "_inline_size_tablet": 100,
+                                        "space_between_widgets_tablet": 0,
+                                        "margin": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "60",
+                                            "isLinked": false
+                                        },
+                                        "margin_tablet": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "30",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "margin_mobile": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "30",
+                                            "left": "0",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "6e62bd80",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "https:\/\/tabit-elementor.nelly-k.com\/wp-content\/uploads\/2020\/11\/indigenous-sri-lankan-tea-picker-picking-tea-PJ2S9J4-scaled.jpg",
+                                                    "id": 1961
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}
