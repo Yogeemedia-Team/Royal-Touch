@@ -1,0 +1,131 @@
+2023-09-25T04:44:38+00:00 CRITICAL Uncaught Error: Failed opening required 'C:\laragon\www\royaltouch/wp-content/themes/twentytwentytwo/inc/customizer.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\royaltouch\wp-content\themes\twentytwentytwo\functions.php:77
+Stack trace:
+#0 C:\laragon\www\royaltouch\wp-settings.php(600): include()
+#1 C:\laragon\www\royaltouch\wp-config.php(96): require_once('C:\\laragon\\www\\...')
+#2 C:\laragon\www\royaltouch\wp-load.php(50): require_once('C:\\laragon\\www\\...')
+#3 C:\laragon\www\royaltouch\wp-admin\admin.php(34): require_once('C:\\laragon\\www\\...')
+#4 C:\laragon\www\royaltouch\wp-admin\themes.php(10): require_once('C:\\laragon\\www\\...')
+#5 {main}
+  thrown in C:\laragon\www\royaltouch\wp-content\themes\twentytwentytwo\functions.php on line 77
+
+2023-09-25T04:44:49+00:00 CRITICAL Uncaught Error: Failed opening required 'C:\laragon\www\royaltouch/wp-content/themes/twentytwentytwo/inc/customizer.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\royaltouch\wp-content\themes\twentytwentytwo\functions.php:77
+Stack trace:
+#0 C:\laragon\www\royaltouch\wp-settings.php(600): include()
+#1 C:\laragon\www\royaltouch\wp-config.php(96): require_once('C:\\laragon\\www\\...')
+#2 C:\laragon\www\royaltouch\wp-load.php(50): require_once('C:\\laragon\\www\\...')
+#3 C:\laragon\www\royaltouch\wp-admin\admin.php(34): require_once('C:\\laragon\\www\\...')
+#4 C:\laragon\www\royaltouch\wp-admin\index.php(10): require_once('C:\\laragon\\www\\...')
+#5 {main}
+  thrown in C:\laragon\www\royaltouch\wp-content\themes\twentytwentytwo\functions.php on line 77
+
+2023-09-25T04:44:53+00:00 CRITICAL Uncaught Error: Failed opening required 'C:\laragon\www\royaltouch/wp-content/themes/twentytwentytwo/inc/customizer.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\royaltouch\wp-content\themes\twentytwentytwo\functions.php:77
+Stack trace:
+#0 C:\laragon\www\royaltouch\wp-settings.php(600): include()
+#1 C:\laragon\www\royaltouch\wp-config.php(96): require_once('C:\\laragon\\www\\...')
+#2 C:\laragon\www\royaltouch\wp-load.php(50): require_once('C:\\laragon\\www\\...')
+#3 C:\laragon\www\royaltouch\wp-admin\admin-ajax.php(22): require_once('C:\\laragon\\www\\...')
+#4 {main}
+  thrown in C:\laragon\www\royaltouch\wp-content\themes\twentytwentytwo\functions.php on line 77
+
+2023-09-25T04:44:54+00:00 CRITICAL Uncaught Error: Failed opening required 'C:\laragon\www\royaltouch/wp-content/themes/twentytwentytwo/inc/customizer.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\royaltouch\wp-content\themes\twentytwentytwo\functions.php:77
+Stack trace:
+#0 C:\laragon\www\royaltouch\wp-settings.php(600): include()
+#1 C:\laragon\www\royaltouch\wp-config.php(96): require_once('C:\\laragon\\www\\...')
+#2 C:\laragon\www\royaltouch\wp-load.php(50): require_once('C:\\laragon\\www\\...')
+#3 C:\laragon\www\royaltouch\wp-admin\admin.php(34): require_once('C:\\laragon\\www\\...')
+#4 C:\laragon\www\royaltouch\wp-admin\index.php(10): require_once('C:\\laragon\\www\\...')
+#5 {main}
+  thrown in C:\laragon\www\royaltouch\wp-content\themes\twentytwentytwo\functions.php on line 77
+
+2023-09-25T04:44:56+00:00 CRITICAL Uncaught Error: Failed opening required 'C:\laragon\www\royaltouch/wp-content/themes/twentytwentytwo/inc/customizer.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\royaltouch\wp-content\themes\twentytwentytwo\functions.php:77
+Stack trace:
+#0 C:\laragon\www\royaltouch\wp-settings.php(600): include()
+#1 C:\laragon\www\royaltouch\wp-config.php(96): require_once('C:\\laragon\\www\\...')
+#2 C:\laragon\www\royaltouch\wp-load.php(50): require_once('C:\\laragon\\www\\...')
+#3 C:\laragon\www\royaltouch\wp-admin\admin-ajax.php(22): require_once('C:\\laragon\\www\\...')
+#4 {main}
+  thrown in C:\laragon\www\royaltouch\wp-content\themes\twentytwentytwo\functions.php on line 77
+
+2023-09-25T04:47:15+00:00 CRITICAL Uncaught Error: Failed opening required 'C:\laragon\www\royaltouch/wp-content/themes/twentytwentytwo/inc/customizer.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\royaltouch\wp-content\themes\twentytwentytwo\functions.php:77
+Stack trace:
+#0 C:\laragon\www\royaltouch\wp-settings.php(600): include()
+#1 C:\laragon\www\royaltouch\wp-config.php(96): require_once('C:\\laragon\\www\\...')
+#2 C:\laragon\www\royaltouch\wp-load.php(50): require_once('C:\\laragon\\www\\...')
+#3 C:\laragon\www\royaltouch\wp-admin\admin-ajax.php(22): require_once('C:\\laragon\\www\\...')
+#4 {main}
+  thrown in C:\laragon\www\royaltouch\wp-content\themes\twentytwentytwo\functions.php on line 77
+
+2023-09-25T04:48:27+00:00 CRITICAL Uncaught Error: Failed opening required 'C:\laragon\www\royaltouch/wp-content/themes/twentytwentytwo/inc/customizer.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\royaltouch\wp-content\themes\twentytwentytwo\functions.php:77
+Stack trace:
+#0 C:\laragon\www\royaltouch\wp-settings.php(600): include()
+#1 C:\laragon\www\royaltouch\wp-config.php(96): require_once('C:\\laragon\\www\\...')
+#2 C:\laragon\www\royaltouch\wp-load.php(50): require_once('C:\\laragon\\www\\...')
+#3 C:\laragon\www\royaltouch\wp-admin\admin-ajax.php(22): require_once('C:\\laragon\\www\\...')
+#4 {main}
+  thrown in C:\laragon\www\royaltouch\wp-content\themes\twentytwentytwo\functions.php on line 77
+
+2023-09-25T04:48:27+00:00 CRITICAL Uncaught Error: Failed opening required 'C:\laragon\www\royaltouch/wp-content/themes/twentytwentytwo/inc/customizer.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\royaltouch\wp-content\themes\twentytwentytwo\functions.php:77
+Stack trace:
+#0 C:\laragon\www\royaltouch\wp-settings.php(600): include()
+#1 C:\laragon\www\royaltouch\wp-config.php(96): require_once('C:\\laragon\\www\\...')
+#2 C:\laragon\www\royaltouch\wp-load.php(50): require_once('C:\\laragon\\www\\...')
+#3 C:\laragon\www\royaltouch\wp-admin\admin.php(34): require_once('C:\\laragon\\www\\...')
+#4 C:\laragon\www\royaltouch\wp-admin\index.php(10): require_once('C:\\laragon\\www\\...')
+#5 {main}
+  thrown in C:\laragon\www\royaltouch\wp-content\themes\twentytwentytwo\functions.php on line 77
+
+2023-09-25T04:57:02+00:00 CRITICAL Uncaught Error: Failed opening required 'C:\laragon\www\royaltouch/wp-content/themes/twentytwentytwo/inc/customizer.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\royaltouch\wp-content\themes\twentytwentytwo\functions.php:77
+Stack trace:
+#0 C:\laragon\www\royaltouch\wp-settings.php(600): include()
+#1 C:\laragon\www\royaltouch\wp-config.php(96): require_once('C:\\laragon\\www\\...')
+#2 C:\laragon\www\royaltouch\wp-load.php(50): require_once('C:\\laragon\\www\\...')
+#3 C:\laragon\www\royaltouch\wp-cron.php(46): require_once('C:\\laragon\\www\\...')
+#4 {main}
+  thrown in C:\laragon\www\royaltouch\wp-content\themes\twentytwentytwo\functions.php on line 77
+
+2023-09-25T04:57:24+00:00 CRITICAL Uncaught Error: Failed opening required 'C:\laragon\www\royaltouch/wp-content/themes/twentytwentytwo/inc/customizer.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\royaltouch\wp-content\themes\twentytwentytwo\functions.php:77
+Stack trace:
+#0 C:\laragon\www\royaltouch\wp-settings.php(600): include()
+#1 C:\laragon\www\royaltouch\wp-config.php(96): require_once('C:\\laragon\\www\\...')
+#2 C:\laragon\www\royaltouch\wp-load.php(50): require_once('C:\\laragon\\www\\...')
+#3 C:\laragon\www\royaltouch\wp-admin\admin-ajax.php(22): require_once('C:\\laragon\\www\\...')
+#4 {main}
+  thrown in C:\laragon\www\royaltouch\wp-content\themes\twentytwentytwo\functions.php on line 77
+
+2023-09-25T04:58:45+00:00 CRITICAL Uncaught Error: Failed opening required 'C:\laragon\www\royaltouch/wp-content/themes/twentytwentytwo/inc/customizer.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\royaltouch\wp-content\themes\twentytwentytwo\functions.php:77
+Stack trace:
+#0 C:\laragon\www\royaltouch\wp-settings.php(600): include()
+#1 C:\laragon\www\royaltouch\wp-config.php(96): require_once('C:\\laragon\\www\\...')
+#2 C:\laragon\www\royaltouch\wp-load.php(50): require_once('C:\\laragon\\www\\...')
+#3 C:\laragon\www\royaltouch\wp-admin\admin-ajax.php(22): require_once('C:\\laragon\\www\\...')
+#4 {main}
+  thrown in C:\laragon\www\royaltouch\wp-content\themes\twentytwentytwo\functions.php on line 77
+
+2023-09-25T04:58:58+00:00 CRITICAL Uncaught Error: Failed opening required 'C:\laragon\www\royaltouch/wp-content/themes/twentytwentytwo/inc/customizer.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\royaltouch\wp-content\themes\twentytwentytwo\functions.php:77
+Stack trace:
+#0 C:\laragon\www\royaltouch\wp-settings.php(600): include()
+#1 C:\laragon\www\royaltouch\wp-config.php(96): require_once('C:\\laragon\\www\\...')
+#2 C:\laragon\www\royaltouch\wp-load.php(50): require_once('C:\\laragon\\www\\...')
+#3 C:\laragon\www\royaltouch\wp-admin\admin-ajax.php(22): require_once('C:\\laragon\\www\\...')
+#4 {main}
+  thrown in C:\laragon\www\royaltouch\wp-content\themes\twentytwentytwo\functions.php on line 77
+
+2023-09-25T04:58:59+00:00 CRITICAL Uncaught Error: Failed opening required 'C:\laragon\www\royaltouch/wp-content/themes/twentytwentytwo/inc/customizer.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\royaltouch\wp-content\themes\twentytwentytwo\functions.php:77
+Stack trace:
+#0 C:\laragon\www\royaltouch\wp-settings.php(600): include()
+#1 C:\laragon\www\royaltouch\wp-config.php(96): require_once('C:\\laragon\\www\\...')
+#2 C:\laragon\www\royaltouch\wp-load.php(50): require_once('C:\\laragon\\www\\...')
+#3 C:\laragon\www\royaltouch\wp-admin\admin-ajax.php(22): require_once('C:\\laragon\\www\\...')
+#4 {main}
+  thrown in C:\laragon\www\royaltouch\wp-content\themes\twentytwentytwo\functions.php on line 77
+
+2023-09-25T04:59:00+00:00 CRITICAL Uncaught Error: Failed opening required 'C:\laragon\www\royaltouch/wp-content/themes/twentytwentytwo/inc/customizer.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\royaltouch\wp-content\themes\twentytwentytwo\functions.php:77
+Stack trace:
+#0 C:\laragon\www\royaltouch\wp-settings.php(600): include()
+#1 C:\laragon\www\royaltouch\wp-config.php(96): require_once('C:\\laragon\\www\\...')
+#2 C:\laragon\www\royaltouch\wp-load.php(50): require_once('C:\\laragon\\www\\...')
+#3 C:\laragon\www\royaltouch\wp-admin\admin.php(34): require_once('C:\\laragon\\www\\...')
+#4 C:\laragon\www\royaltouch\wp-admin\edit.php(10): require_once('C:\\laragon\\www\\...')
+#5 {main}
+  thrown in C:\laragon\www\royaltouch\wp-content\themes\twentytwentytwo\functions.php on line 77
+

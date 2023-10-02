@@ -1,0 +1,2253 @@
+{
+    "manifest_version": "1.0.18",
+    "title": "Tabit \u2014 Teahouse & Tea Store",
+    "page_builder": "elementor",
+    "kit_version": "1.0.2",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/tabit-elementor.nelly-k.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/tabit-elementor.nelly-k.com\/?elementor_library=header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/tabit-elementor.nelly-k.com\/?elementor_library=footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/tabit-elementor.nelly-k.com\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/tabit-elementor.nelly-k.com\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Our Team",
+            "screenshot": "screenshots\/our-team.jpg",
+            "source": "templates\/our-team.json",
+            "preview_url": "https:\/\/tabit-elementor.nelly-k.com\/template-kit\/our-team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/tabit-elementor.nelly-k.com\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Testimonials",
+            "screenshot": "screenshots\/testimonials.jpg",
+            "source": "templates\/testimonials.json",
+            "preview_url": "https:\/\/tabit-elementor.nelly-k.com\/template-kit\/testimonials\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Our Menu",
+            "screenshot": "screenshots\/our-menu.jpg",
+            "source": "templates\/our-menu.json",
+            "preview_url": "https:\/\/tabit-elementor.nelly-k.com\/template-kit\/our-menu\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Gallery",
+            "screenshot": "screenshots\/gallery.jpg",
+            "source": "templates\/gallery.json",
+            "preview_url": "https:\/\/tabit-elementor.nelly-k.com\/template-kit\/gallery\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single Layout",
+            "screenshot": "screenshots\/single-layout.jpg",
+            "source": "templates\/single-layout.json",
+            "preview_url": "https:\/\/tabit-elementor.nelly-k.com\/template-kit\/single-layout\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Frequently Asked Questions",
+            "screenshot": "screenshots\/frequently-asked-questions.jpg",
+            "source": "templates\/frequently-asked-questions.json",
+            "preview_url": "https:\/\/tabit-elementor.nelly-k.com\/template-kit\/frequently-asked-questions\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/tabit-elementor.nelly-k.com\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "404 Page",
+            "screenshot": "screenshots\/404-page.jpg",
+            "source": "templates\/404-page.json",
+            "preview_url": "https:\/\/tabit-elementor.nelly-k.com\/?elementor_library=404-page",
+            "type": "single",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single",
+                "elementor_pro_conditions": [
+                    "include\/singular\/not_found404"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single\" template for Elementor Pro.",
+                    "This template will display on: 404 Page."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Product Single",
+            "screenshot": "screenshots\/product-single.jpg",
+            "source": "templates\/product-single.json",
+            "preview_url": "https:\/\/tabit-elementor.nelly-k.com\/?elementor_library=product-single",
+            "type": "product",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-product",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "product",
+                "elementor_pro_conditions": [
+                    "include\/product"
+                ],
+                "additional_template_information": [
+                    "This is a \"Product\" template for Elementor Pro.",
+                    "This template will display on: Products."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Shop",
+            "screenshot": "screenshots\/shop.jpg",
+            "source": "templates\/shop.json",
+            "preview_url": "https:\/\/tabit-elementor.nelly-k.com\/?elementor_library=shop",
+            "type": "product-archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-product",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "product-archive",
+                "elementor_pro_conditions": [
+                    "include\/product_archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Product Archive\" template for Elementor Pro.",
+                    "This template will display on: All Product Archives."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Archive",
+            "screenshot": "screenshots\/archive.jpg",
+            "source": "templates\/archive.json",
+            "preview_url": "https:\/\/tabit-elementor.nelly-k.com\/?elementor_library=archive",
+            "type": "archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: All Archives."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/tabit-elementor.nelly-k.com\/?elementor_library=single-post-2",
+            "type": "single",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single",
+                "elementor_pro_conditions": [
+                    "include\/singular\/post"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single\" template for Elementor Pro.",
+                    "This template will display on: Posts."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Block: Product Related",
+            "screenshot": "screenshots\/block-product-related.jpg",
+            "source": "templates\/block-product-related.json",
+            "preview_url": "https:\/\/tabit-elementor.nelly-k.com\/template-kit\/block-product-related\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-product",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Block: Assortment",
+            "screenshot": "screenshots\/block-assortment.jpg",
+            "source": "templates\/block-assortment.json",
+            "preview_url": "https:\/\/tabit-elementor.nelly-k.com\/template-kit\/block-assortment\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Block: Top Reviews",
+            "screenshot": "screenshots\/block-top-reviews.jpg",
+            "source": "templates\/block-top-reviews.json",
+            "preview_url": "https:\/\/tabit-elementor.nelly-k.com\/template-kit\/block-top-reviews\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-testimonial",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Block: Pricing",
+            "screenshot": "screenshots\/block-pricing.jpg",
+            "source": "templates\/block-pricing.json",
+            "preview_url": "https:\/\/tabit-elementor.nelly-k.com\/template-kit\/block-pricing\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-pricing",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Block: Menu",
+            "screenshot": "screenshots\/block-menu.jpg",
+            "source": "templates\/block-menu.json",
+            "preview_url": "https:\/\/tabit-elementor.nelly-k.com\/template-kit\/block-menu\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-pricing",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Block: Testimonials",
+            "screenshot": "screenshots\/block-testimonials.jpg",
+            "source": "templates\/block-testimonials.json",
+            "preview_url": "https:\/\/tabit-elementor.nelly-k.com\/template-kit\/block-testimonials\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-testimonial",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Block: Hero",
+            "screenshot": "screenshots\/block-hero.jpg",
+            "source": "templates\/block-hero.json",
+            "preview_url": "https:\/\/tabit-elementor.nelly-k.com\/template-kit\/block-hero\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-hero",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Block: Gifts",
+            "screenshot": "screenshots\/block-gifts.jpg",
+            "source": "templates\/block-gifts.json",
+            "preview_url": "https:\/\/tabit-elementor.nelly-k.com\/template-kit\/block-gifts\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Block: Popular Products",
+            "screenshot": "screenshots\/block-popular-products.jpg",
+            "source": "templates\/block-popular-products.json",
+            "preview_url": "https:\/\/tabit-elementor.nelly-k.com\/template-kit\/block-popular-products\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-product",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Block: Booking",
+            "screenshot": "screenshots\/block-booking.jpg",
+            "source": "templates\/block-booking.json",
+            "preview_url": "https:\/\/tabit-elementor.nelly-k.com\/template-kit\/block-booking\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-cta",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Block: Features 2",
+            "screenshot": "screenshots\/block-features-2.jpg",
+            "source": "templates\/block-features-2.json",
+            "preview_url": "https:\/\/tabit-elementor.nelly-k.com\/template-kit\/block-features-2\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-features",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Block: Reviews",
+            "screenshot": "screenshots\/block-reviews.jpg",
+            "source": "templates\/block-reviews.json",
+            "preview_url": "https:\/\/tabit-elementor.nelly-k.com\/template-kit\/block-reviews\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-testimonial",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Block: Video",
+            "screenshot": "screenshots\/block-video.jpg",
+            "source": "templates\/block-video.json",
+            "preview_url": "https:\/\/tabit-elementor.nelly-k.com\/template-kit\/block-video\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Block: Tea Ceremony",
+            "screenshot": "screenshots\/block-tea-ceremony.jpg",
+            "source": "templates\/block-tea-ceremony.json",
+            "preview_url": "https:\/\/tabit-elementor.nelly-k.com\/template-kit\/block-tea-ceremony\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Block: About 2",
+            "screenshot": "screenshots\/block-about-2.jpg",
+            "source": "templates\/block-about-2.json",
+            "preview_url": "https:\/\/tabit-elementor.nelly-k.com\/template-kit\/block-about-2\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-about",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Block: Leave Review",
+            "screenshot": "screenshots\/block-leave-review.jpg",
+            "source": "templates\/block-leave-review.json",
+            "preview_url": "https:\/\/tabit-elementor.nelly-k.com\/template-kit\/block-leave-review\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-cta",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Block: Gallery Single",
+            "screenshot": "screenshots\/block-gallery-single.jpg",
+            "source": "templates\/block-gallery-single.json",
+            "preview_url": "https:\/\/tabit-elementor.nelly-k.com\/template-kit\/block-gallery-single\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-gallery",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Block: Contacts",
+            "screenshot": "screenshots\/block-contacts.jpg",
+            "source": "templates\/block-contacts.json",
+            "preview_url": "https:\/\/tabit-elementor.nelly-k.com\/template-kit\/block-contacts\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Block: Subscribe",
+            "screenshot": "screenshots\/block-subscribe.jpg",
+            "source": "templates\/block-subscribe.json",
+            "preview_url": "https:\/\/tabit-elementor.nelly-k.com\/template-kit\/block-subscribe\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-cta",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Block: Team",
+            "screenshot": "screenshots\/block-team.jpg",
+            "source": "templates\/block-team.json",
+            "preview_url": "https:\/\/tabit-elementor.nelly-k.com\/template-kit\/block-team\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-team",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Block: Features",
+            "screenshot": "screenshots\/block-features.jpg",
+            "source": "templates\/block-features.json",
+            "preview_url": "https:\/\/tabit-elementor.nelly-k.com\/template-kit\/block-features\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-features",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Block: Experience",
+            "screenshot": "screenshots\/block-experience.jpg",
+            "source": "templates\/block-experience.json",
+            "preview_url": "https:\/\/tabit-elementor.nelly-k.com\/template-kit\/block-experience\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Block: About",
+            "screenshot": "screenshots\/block-about.jpg",
+            "source": "templates\/block-about.json",
+            "preview_url": "https:\/\/tabit-elementor.nelly-k.com\/template-kit\/block-about\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-about",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Block: Header",
+            "screenshot": "screenshots\/block-header.jpg",
+            "source": "templates\/block-header.json",
+            "preview_url": "https:\/\/tabit-elementor.nelly-k.com\/template-kit\/block-header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Block: FAQ",
+            "screenshot": "screenshots\/block-faq.jpg",
+            "source": "templates\/block-faq.json",
+            "preview_url": "https:\/\/tabit-elementor.nelly-k.com\/template-kit\/block-faq\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-faq",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Block: Header 2",
+            "screenshot": "screenshots\/block-header-2.jpg",
+            "source": "templates\/block-header-2.json",
+            "preview_url": "https:\/\/tabit-elementor.nelly-k.com\/template-kit\/block-header-2\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Block: Map",
+            "screenshot": "screenshots\/block-map.jpg",
+            "source": "templates\/block-map.json",
+            "preview_url": "https:\/\/tabit-elementor.nelly-k.com\/template-kit\/block-map\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-map",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Block: Blog",
+            "screenshot": "screenshots\/block-blog.jpg",
+            "source": "templates\/block-blog.json",
+            "preview_url": "https:\/\/tabit-elementor.nelly-k.com\/template-kit\/block-blog\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Block: Gallery",
+            "screenshot": "screenshots\/block-gallery.jpg",
+            "source": "templates\/block-gallery.json",
+            "preview_url": "https:\/\/tabit-elementor.nelly-k.com\/template-kit\/block-gallery\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-gallery",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Block: Related Posts",
+            "screenshot": "screenshots\/block-related-posts.jpg",
+            "source": "templates\/block-related-posts.json",
+            "preview_url": "https:\/\/tabit-elementor.nelly-k.com\/template-kit\/block-related-posts\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor Pro",
+            "version": "3.0.10",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.0.16",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "WooCommerce",
+            "version": "4.9.1",
+            "file": "woocommerce\/woocommerce.php",
+            "author": "Automattic"
+        }
+    ],
+    "images": [
+        {
+            "filename": "set-for-tea-ceremony-PFQGC47-2.jpg",
+            "thumbnail_url": "https:\/\/tabit-elementor.nelly-k.com\/wp-content\/uploads\/2020\/10\/set-for-tea-ceremony-PFQGC47-2-600x258.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/block-booking.json",
+                    "name": "Block: Booking"
+                },
+                {
+                    "source": "templates\/block-leave-review.json",
+                    "name": "Block: Leave Review"
+                }
+            ],
+            "filesize": 61591,
+            "dimensions": [
+                1920,
+                827
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PFQGC47"
+        },
+        {
+            "filename": "logo_white.png",
+            "thumbnail_url": "https:\/\/tabit-elementor.nelly-k.com\/wp-content\/uploads\/2020\/11\/logo_white.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 3125,
+            "dimensions": [
+                476,
+                150
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/ru\/bear-tea-logo-JTVRWLQ"
+        },
+        {
+            "filename": "views-of-tea-plantation-in-cameron-highlands-malay-3VNMLV9.jpg",
+            "thumbnail_url": "https:\/\/tabit-elementor.nelly-k.com\/wp-content\/uploads\/2020\/11\/views-of-tea-plantation-in-cameron-highlands-malay-3VNMLV9-600x401.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/product-single.json",
+                    "name": "Product Single"
+                },
+                {
+                    "source": "templates\/shop.json",
+                    "name": "Shop"
+                },
+                {
+                    "source": "templates\/archive.json",
+                    "name": "Archive"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/block-hero.json",
+                    "name": "Block: Hero"
+                },
+                {
+                    "source": "templates\/block-header-2.json",
+                    "name": "Block: Header 2"
+                }
+            ],
+            "filesize": 197458,
+            "dimensions": [
+                1080,
+                721
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-3VNMLV9"
+        },
+        {
+            "filename": "asian-teapot-4TJ6DW2-e1611585940576.png",
+            "thumbnail_url": "https:\/\/tabit-elementor.nelly-k.com\/wp-content\/uploads\/2020\/10\/asian-teapot-4TJ6DW2-600x541.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/block-hero.json",
+                    "name": "Block: Hero"
+                }
+            ],
+            "filesize": 189566,
+            "dimensions": [
+                888,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-4TJ6DW2"
+        },
+        {
+            "filename": "flowers-tea-P95NXTH-e1611585576608.png",
+            "thumbnail_url": "https:\/\/tabit-elementor.nelly-k.com\/wp-content\/uploads\/2020\/10\/flowers-tea-P95NXTH-600x250.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/block-hero.json",
+                    "name": "Block: Hero"
+                }
+            ],
+            "filesize": 124491,
+            "dimensions": [
+                1202,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-P95NXTH"
+        },
+        {
+            "filename": "jasmine-tea-PW5KL7M-e1611585498315.png",
+            "thumbnail_url": "https:\/\/tabit-elementor.nelly-k.com\/wp-content\/uploads\/2020\/11\/jasmine-tea-PW5KL7M-600x719.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/block-about-2.json",
+                    "name": "Block: About 2"
+                }
+            ],
+            "filesize": 174433,
+            "dimensions": [
+                1000,
+                1198
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PW5KL7M"
+        },
+        {
+            "filename": "chinese-tea-ceremony-in-a-park-KNRJA8C-1-e1611588573830.jpg",
+            "thumbnail_url": "https:\/\/tabit-elementor.nelly-k.com\/wp-content\/uploads\/2020\/10\/chinese-tea-ceremony-in-a-park-KNRJA8C-1-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/block-tea-ceremony.json",
+                    "name": "Block: Tea Ceremony"
+                }
+            ],
+            "filesize": 179007,
+            "dimensions": [
+                1100,
+                733
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-KNRJA8C"
+        },
+        {
+            "filename": "tea-PGTWQLE-scaled-e1611586659862.jpg",
+            "thumbnail_url": "https:\/\/tabit-elementor.nelly-k.com\/wp-content\/uploads\/2020\/10\/tea-PGTWQLE-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/block-tea-ceremony.json",
+                    "name": "Block: Tea Ceremony"
+                }
+            ],
+            "filesize": 162189,
+            "dimensions": [
+                1500,
+                1001
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/ru\/tea-PGTWQLE"
+        },
+        {
+            "filename": "chinese-tea-ceremony-PSCNADY-scaled-e1611584899470.jpg",
+            "thumbnail_url": "https:\/\/tabit-elementor.nelly-k.com\/wp-content\/uploads\/2020\/10\/chinese-tea-ceremony-PSCNADY-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/block-tea-ceremony.json",
+                    "name": "Block: Tea Ceremony"
+                }
+            ],
+            "filesize": 153987,
+            "dimensions": [
+                2000,
+                1335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/ru\/chinese-tea-ceremony-PSCNADY"
+        },
+        {
+            "filename": "t1.png",
+            "thumbnail_url": "https:\/\/tabit-elementor.nelly-k.com\/wp-content\/uploads\/2020\/11\/t1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/block-features-2.json",
+                    "name": "Block: Features 2"
+                }
+            ],
+            "filesize": 770,
+            "dimensions": [
+                127,
+                128
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/ru\/15-tea-icons-2XQRZ9"
+        },
+        {
+            "filename": "t2.png",
+            "thumbnail_url": "https:\/\/tabit-elementor.nelly-k.com\/wp-content\/uploads\/2020\/11\/t2.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/block-features-2.json",
+                    "name": "Block: Features 2"
+                }
+            ],
+            "filesize": 775,
+            "dimensions": [
+                130,
+                130
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/ru\/15-tea-icons-2XQRZ9"
+        },
+        {
+            "filename": "t3.png",
+            "thumbnail_url": "https:\/\/tabit-elementor.nelly-k.com\/wp-content\/uploads\/2020\/11\/t3.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/block-features-2.json",
+                    "name": "Block: Features 2"
+                }
+            ],
+            "filesize": 1015,
+            "dimensions": [
+                130,
+                130
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/ru\/15-tea-icons-2XQRZ9"
+        },
+        {
+            "filename": "tea-PJS6KKW-e1611589136402.jpg",
+            "thumbnail_url": "https:\/\/tabit-elementor.nelly-k.com\/wp-content\/uploads\/2020\/10\/tea-PJS6KKW-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/block-assortment.json",
+                    "name": "Block: Assortment"
+                },
+                {
+                    "source": "templates\/block-gallery.json",
+                    "name": "Block: Gallery"
+                }
+            ],
+            "filesize": 192500,
+            "dimensions": [
+                1200,
+                801
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PJS6KKW"
+        },
+        {
+            "filename": "tea-and-kitchen-herbs-PHESG3G-e1611588822568.jpg",
+            "thumbnail_url": "https:\/\/tabit-elementor.nelly-k.com\/wp-content\/uploads\/2020\/10\/tea-and-kitchen-herbs-PHESG3G-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/block-assortment.json",
+                    "name": "Block: Assortment"
+                }
+            ],
+            "filesize": 200834,
+            "dimensions": [
+                1300,
+                867
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PHESG3G"
+        },
+        {
+            "filename": "different-pressed-chinese-pu-erh-tea-YVE5GGH-1-e1611586733510.jpg",
+            "thumbnail_url": "https:\/\/tabit-elementor.nelly-k.com\/wp-content\/uploads\/2020\/10\/different-pressed-chinese-pu-erh-tea-YVE5GGH-1-600x401.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/block-assortment.json",
+                    "name": "Block: Assortment"
+                },
+                {
+                    "source": "templates\/block-gallery.json",
+                    "name": "Block: Gallery"
+                }
+            ],
+            "filesize": 144167,
+            "dimensions": [
+                1500,
+                1001
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-YVE5GGH"
+        },
+        {
+            "filename": "matcha-green-tea-PM7J26W-e1611589104439.jpg",
+            "thumbnail_url": "https:\/\/tabit-elementor.nelly-k.com\/wp-content\/uploads\/2020\/10\/matcha-green-tea-PM7J26W-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/block-assortment.json",
+                    "name": "Block: Assortment"
+                },
+                {
+                    "source": "templates\/block-gallery.json",
+                    "name": "Block: Gallery"
+                }
+            ],
+            "filesize": 204628,
+            "dimensions": [
+                1300,
+                868
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PM7J26W"
+        },
+        {
+            "filename": "75.png",
+            "thumbnail_url": "https:\/\/tabit-elementor.nelly-k.com\/wp-content\/uploads\/2020\/11\/75.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/block-features.json",
+                    "name": "Block: Features"
+                }
+            ],
+            "filesize": 960,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/ru\/15-tea-icons-2XQRZ9"
+        },
+        {
+            "filename": "76.png",
+            "thumbnail_url": "https:\/\/tabit-elementor.nelly-k.com\/wp-content\/uploads\/2020\/11\/76.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/block-features.json",
+                    "name": "Block: Features"
+                }
+            ],
+            "filesize": 960,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/ru\/15-tea-icons-2XQRZ9"
+        },
+        {
+            "filename": "72.png",
+            "thumbnail_url": "https:\/\/tabit-elementor.nelly-k.com\/wp-content\/uploads\/2020\/11\/72.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/block-features.json",
+                    "name": "Block: Features"
+                }
+            ],
+            "filesize": 775,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/ru\/15-tea-icons-2XQRZ9"
+        },
+        {
+            "filename": "78.png",
+            "thumbnail_url": "https:\/\/tabit-elementor.nelly-k.com\/wp-content\/uploads\/2020\/11\/78.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/block-features.json",
+                    "name": "Block: Features"
+                }
+            ],
+            "filesize": 756,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/ru\/15-tea-icons-2XQRZ9"
+        },
+        {
+            "filename": "77.png",
+            "thumbnail_url": "https:\/\/tabit-elementor.nelly-k.com\/wp-content\/uploads\/2020\/11\/77.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/block-features.json",
+                    "name": "Block: Features"
+                }
+            ],
+            "filesize": 813,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/ru\/15-tea-icons-2XQRZ9"
+        },
+        {
+            "filename": "g1.png",
+            "thumbnail_url": "https:\/\/tabit-elementor.nelly-k.com\/wp-content\/uploads\/2020\/11\/g1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/block-gifts.json",
+                    "name": "Block: Gifts"
+                }
+            ],
+            "filesize": 589,
+            "dimensions": [
+                58,
+                70
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/ru\/15-tea-icons-2XQRZ9"
+        },
+        {
+            "filename": "g6.png",
+            "thumbnail_url": "https:\/\/tabit-elementor.nelly-k.com\/wp-content\/uploads\/2020\/11\/g6.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/block-gifts.json",
+                    "name": "Block: Gifts"
+                }
+            ],
+            "filesize": 478,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/ru\/15-tea-icons-2XQRZ9"
+        },
+        {
+            "filename": "Oval.png",
+            "thumbnail_url": "https:\/\/tabit-elementor.nelly-k.com\/wp-content\/uploads\/2020\/11\/Oval-600x600.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/block-gifts.json",
+                    "name": "Block: Gifts"
+                }
+            ],
+            "filesize": 2998,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/tabit-elementor.nelly-k.com\/wp-content\/uploads\/2020\/11\/Oval-600x600.png"
+        },
+        {
+            "filename": "Gift-Box.png",
+            "thumbnail_url": "https:\/\/tabit-elementor.nelly-k.com\/wp-content\/uploads\/2020\/10\/Gift-Box-600x448.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/block-gifts.json",
+                    "name": "Block: Gifts"
+                }
+            ],
+            "filesize": 129897,
+            "dimensions": [
+                1181,
+                881
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/ru\/gift-box-CN5MJQY"
+        },
+        {
+            "filename": "Black-Teapot.png",
+            "thumbnail_url": "https:\/\/tabit-elementor.nelly-k.com\/wp-content\/uploads\/2020\/10\/Black-Teapot-600x357.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/block-gifts.json",
+                    "name": "Block: Gifts"
+                }
+            ],
+            "filesize": 98230,
+            "dimensions": [
+                1181,
+                703
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/ru\/black-teapot-3WFUWD"
+        },
+        {
+            "filename": "g2.png",
+            "thumbnail_url": "https:\/\/tabit-elementor.nelly-k.com\/wp-content\/uploads\/2020\/11\/g2.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/block-gifts.json",
+                    "name": "Block: Gifts"
+                }
+            ],
+            "filesize": 643,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/ru\/15-tea-icons-2XQRZ9"
+        },
+        {
+            "filename": "g3.png",
+            "thumbnail_url": "https:\/\/tabit-elementor.nelly-k.com\/wp-content\/uploads\/2020\/11\/g3.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/block-gifts.json",
+                    "name": "Block: Gifts"
+                }
+            ],
+            "filesize": 1164,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/ru\/15-tea-icons-2XQRZ9"
+        },
+        {
+            "filename": "chinese-tea-ceremony-PTPXKRA.jpg",
+            "thumbnail_url": "https:\/\/tabit-elementor.nelly-k.com\/wp-content\/uploads\/2020\/11\/chinese-tea-ceremony-PTPXKRA-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/block-testimonials.json",
+                    "name": "Block: Testimonials"
+                },
+                {
+                    "source": "templates\/block-experience.json",
+                    "name": "Block: Experience"
+                }
+            ],
+            "filesize": 108923,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PTPXKRA"
+        },
+        {
+            "filename": "friendly-women-X7Y8WJR2.jpg",
+            "thumbnail_url": "https:\/\/tabit-elementor.nelly-k.com\/wp-content\/uploads\/2020\/10\/friendly-women-X7Y8WJR2-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/block-top-reviews.json",
+                    "name": "Block: Top Reviews"
+                },
+                {
+                    "source": "templates\/block-testimonials.json",
+                    "name": "Block: Testimonials"
+                }
+            ],
+            "filesize": 110584,
+            "dimensions": [
+                1181,
+                1181
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-7Y8WJR2"
+        },
+        {
+            "filename": "talk-in-cozy-cafe-B5NK76T.jpg",
+            "thumbnail_url": "https:\/\/tabit-elementor.nelly-k.com\/wp-content\/uploads\/2020\/10\/talk-in-cozy-cafe-B5NK76T-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/block-top-reviews.json",
+                    "name": "Block: Top Reviews"
+                },
+                {
+                    "source": "templates\/block-testimonials.json",
+                    "name": "Block: Testimonials"
+                }
+            ],
+            "filesize": 146647,
+            "dimensions": [
+                1181,
+                1181
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-B5NK76T"
+        },
+        {
+            "filename": "friendly-women-X7Y8WJR.jpg",
+            "thumbnail_url": "https:\/\/tabit-elementor.nelly-k.com\/wp-content\/uploads\/2020\/10\/friendly-women-X7Y8WJR-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/block-top-reviews.json",
+                    "name": "Block: Top Reviews"
+                },
+                {
+                    "source": "templates\/block-testimonials.json",
+                    "name": "Block: Testimonials"
+                }
+            ],
+            "filesize": 118998,
+            "dimensions": [
+                1181,
+                1181
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-X7Y8WJR"
+        },
+        {
+            "filename": "new.png",
+            "thumbnail_url": "https:\/\/tabit-elementor.nelly-k.com\/wp-content\/uploads\/2020\/10\/new.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/single-layout.json",
+                    "name": "Single Layout"
+                },
+                {
+                    "source": "templates\/product-single.json",
+                    "name": "Product Single"
+                },
+                {
+                    "source": "templates\/shop.json",
+                    "name": "Shop"
+                },
+                {
+                    "source": "templates\/archive.json",
+                    "name": "Archive"
+                },
+                {
+                    "source": "templates\/block-subscribe.json",
+                    "name": "Block: Subscribe"
+                }
+            ],
+            "filesize": 2131,
+            "dimensions": [
+                128,
+                84
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/ru\/15-tea-icons-2XQRZ9"
+        },
+        {
+            "filename": "tea-composition-ZSM3E9N-2-e1611588020897.jpg",
+            "thumbnail_url": "https:\/\/tabit-elementor.nelly-k.com\/wp-content\/uploads\/2020\/11\/tea-composition-ZSM3E9N-2-600x304.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/our-menu.json",
+                    "name": "Our Menu"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/single-layout.json",
+                    "name": "Single Layout"
+                },
+                {
+                    "source": "templates\/frequently-asked-questions.json",
+                    "name": "Frequently Asked Questions"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                },
+                {
+                    "source": "templates\/block-header.json",
+                    "name": "Block: Header"
+                }
+            ],
+            "filesize": 187415,
+            "dimensions": [
+                1200,
+                607
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZSM3E9N"
+        },
+        {
+            "filename": "tea-PGTWQLE2.jpg",
+            "thumbnail_url": "https:\/\/tabit-elementor.nelly-k.com\/wp-content\/uploads\/2020\/10\/tea-PGTWQLE2-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-menu.json",
+                    "name": "Our Menu"
+                },
+                {
+                    "source": "templates\/block-menu.json",
+                    "name": "Block: Menu"
+                },
+                {
+                    "source": "templates\/block-about.json",
+                    "name": "Block: About"
+                }
+            ],
+            "filesize": 165642,
+            "dimensions": [
+                1063,
+                1063
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-GTWQLE2"
+        },
+        {
+            "filename": "indigenous-sri-lankan-tea-picker-picking-tea-PJ2S9J4-scaled.jpg",
+            "thumbnail_url": "https:\/\/tabit-elementor.nelly-k.com\/wp-content\/uploads\/2020\/11\/indigenous-sri-lankan-tea-picker-picking-tea-PJ2S9J4-600x405.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/block-experience.json",
+                    "name": "Block: Experience"
+                }
+            ],
+            "filesize": 171589,
+            "dimensions": [
+                2000,
+                1350
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/ru\/indigenous-sri-lankan-tea-picker-picking-tea-PJ2S9J4"
+        },
+        {
+            "filename": "image-of-adult-mature-woman-with-long-gray-hair-lo-GYAX2NX.jpg",
+            "thumbnail_url": "https:\/\/tabit-elementor.nelly-k.com\/wp-content\/uploads\/2020\/11\/image-of-adult-mature-woman-with-long-gray-hair-lo-GYAX2NX-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/block-team.json",
+                    "name": "Block: Team"
+                }
+            ],
+            "filesize": 138941,
+            "dimensions": [
+                1417,
+                1417
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-GYAX2NX"
+        },
+        {
+            "filename": "a-portrait-of-caucasian-man-PDZTLMB.jpg",
+            "thumbnail_url": "https:\/\/tabit-elementor.nelly-k.com\/wp-content\/uploads\/2020\/11\/a-portrait-of-caucasian-man-PDZTLMB-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/block-reviews.json",
+                    "name": "Block: Reviews"
+                },
+                {
+                    "source": "templates\/block-team.json",
+                    "name": "Block: Team"
+                }
+            ],
+            "filesize": 111048,
+            "dimensions": [
+                1417,
+                1417
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PDZTLMB"
+        },
+        {
+            "filename": "image-of-joyful-caucasian-woman-smiling-and-lookin-9PU3GJC-scaled-e1611584962983.jpg",
+            "thumbnail_url": "https:\/\/tabit-elementor.nelly-k.com\/wp-content\/uploads\/2020\/11\/image-of-joyful-caucasian-woman-smiling-and-lookin-9PU3GJC-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/block-reviews.json",
+                    "name": "Block: Reviews"
+                },
+                {
+                    "source": "templates\/block-team.json",
+                    "name": "Block: Team"
+                }
+            ],
+            "filesize": 148695,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/ru\/image-of-joyful-caucasian-woman-smiling-and-lookin-9PU3GJC"
+        },
+        {
+            "filename": "portrait-of-handsome-hipster-man-with-arms-crossed-MPZRZUH.jpg",
+            "thumbnail_url": "https:\/\/tabit-elementor.nelly-k.com\/wp-content\/uploads\/2020\/11\/portrait-of-handsome-hipster-man-with-arms-crossed-MPZRZUH-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/block-reviews.json",
+                    "name": "Block: Reviews"
+                },
+                {
+                    "source": "templates\/block-team.json",
+                    "name": "Block: Team"
+                }
+            ],
+            "filesize": 186822,
+            "dimensions": [
+                1417,
+                1417
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-MPZRZUH"
+        },
+        {
+            "filename": "asian-woman-girl-beauty-portrait-WUAGHYD.jpg",
+            "thumbnail_url": "https:\/\/tabit-elementor.nelly-k.com\/wp-content\/uploads\/2020\/11\/asian-woman-girl-beauty-portrait-WUAGHYD-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/block-reviews.json",
+                    "name": "Block: Reviews"
+                }
+            ],
+            "filesize": 119114,
+            "dimensions": [
+                1417,
+                1417
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-WUAGHYD"
+        },
+        {
+            "filename": "red-flower-tea-PEGW4JH.jpg",
+            "thumbnail_url": "https:\/\/tabit-elementor.nelly-k.com\/wp-content\/uploads\/2020\/10\/red-flower-tea-PEGW4JH-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-menu.json",
+                    "name": "Our Menu"
+                },
+                {
+                    "source": "templates\/block-menu.json",
+                    "name": "Block: Menu"
+                }
+            ],
+            "filesize": 105732,
+            "dimensions": [
+                1077,
+                1077
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PEGW4JH"
+        },
+        {
+            "filename": "cup-of-tea-PTGUYH9-scaled-e1611589209121.jpg",
+            "thumbnail_url": "https:\/\/tabit-elementor.nelly-k.com\/wp-content\/uploads\/2020\/11\/cup-of-tea-PTGUYH9-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-menu.json",
+                    "name": "Our Menu"
+                },
+                {
+                    "source": "templates\/block-menu.json",
+                    "name": "Block: Menu"
+                }
+            ],
+            "filesize": 146496,
+            "dimensions": [
+                1200,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/ru\/cup-of-tea-PTGUYH9"
+        },
+        {
+            "filename": "cup-of-tea-BVBC8GG-scaled.jpg",
+            "thumbnail_url": "https:\/\/tabit-elementor.nelly-k.com\/wp-content\/uploads\/2020\/11\/cup-of-tea-BVBC8GG-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-menu.json",
+                    "name": "Our Menu"
+                },
+                {
+                    "source": "templates\/block-menu.json",
+                    "name": "Block: Menu"
+                }
+            ],
+            "filesize": 78266,
+            "dimensions": [
+                2000,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/ru\/cup-of-tea-BVBC8GG"
+        },
+        {
+            "filename": "herbal-tea-in-teapot-and-cup-42JUAM8.jpg",
+            "thumbnail_url": "https:\/\/tabit-elementor.nelly-k.com\/wp-content\/uploads\/2020\/10\/herbal-tea-in-teapot-and-cup-42JUAM8-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-menu.json",
+                    "name": "Our Menu"
+                },
+                {
+                    "source": "templates\/block-menu.json",
+                    "name": "Block: Menu"
+                }
+            ],
+            "filesize": 163377,
+            "dimensions": [
+                1039,
+                1039
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-42JUAM8"
+        },
+        {
+            "filename": "cup-of-green-tea-P82E8HS-scaled.jpg",
+            "thumbnail_url": "https:\/\/tabit-elementor.nelly-k.com\/wp-content\/uploads\/2020\/11\/cup-of-green-tea-P82E8HS-600x618.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-menu.json",
+                    "name": "Our Menu"
+                },
+                {
+                    "source": "templates\/block-menu.json",
+                    "name": "Block: Menu"
+                }
+            ],
+            "filesize": 149046,
+            "dimensions": [
+                1942,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/ru\/cup-of-green-tea-P82E8HS"
+        },
+        {
+            "filename": "time-for-cup-of-tea-P9TFECK.jpg",
+            "thumbnail_url": "https:\/\/tabit-elementor.nelly-k.com\/wp-content\/uploads\/2020\/11\/time-for-cup-of-tea-P9TFECK-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-menu.json",
+                    "name": "Our Menu"
+                },
+                {
+                    "source": "templates\/block-menu.json",
+                    "name": "Block: Menu"
+                }
+            ],
+            "filesize": 176554,
+            "dimensions": [
+                2000,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-P9TFECK"
+        },
+        {
+            "filename": "healthy-hot-linden-tea-in-cup-HTG8FNR-scaled.jpg",
+            "thumbnail_url": "https:\/\/tabit-elementor.nelly-k.com\/wp-content\/uploads\/2020\/11\/healthy-hot-linden-tea-in-cup-HTG8FNR-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-menu.json",
+                    "name": "Our Menu"
+                },
+                {
+                    "source": "templates\/block-menu.json",
+                    "name": "Block: Menu"
+                }
+            ],
+            "filesize": 197691,
+            "dimensions": [
+                2000,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/ru\/healthy-hot-linden-tea-in-cup-HTG8FNR"
+        },
+        {
+            "filename": "two-cups-of-healthy-herbal-tea-with-mint-PCT5LYP.jpg",
+            "thumbnail_url": "https:\/\/tabit-elementor.nelly-k.com\/wp-content\/uploads\/2020\/11\/two-cups-of-healthy-herbal-tea-with-mint-PCT5LYP-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-menu.json",
+                    "name": "Our Menu"
+                },
+                {
+                    "source": "templates\/block-menu.json",
+                    "name": "Block: Menu"
+                }
+            ],
+            "filesize": 128228,
+            "dimensions": [
+                1833,
+                1833
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PCT5LYP"
+        },
+        {
+            "filename": "cup-of-tea-PZ5Z8JR.jpg",
+            "thumbnail_url": "https:\/\/tabit-elementor.nelly-k.com\/wp-content\/uploads\/2020\/11\/cup-of-tea-PZ5Z8JR-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-menu.json",
+                    "name": "Our Menu"
+                },
+                {
+                    "source": "templates\/block-menu.json",
+                    "name": "Block: Menu"
+                }
+            ],
+            "filesize": 134178,
+            "dimensions": [
+                2000,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PZ5Z8JR"
+        },
+        {
+            "filename": "two-cups-of-masala-tea-XMWZ6K5-scaled.jpg",
+            "thumbnail_url": "https:\/\/tabit-elementor.nelly-k.com\/wp-content\/uploads\/2020\/11\/two-cups-of-masala-tea-XMWZ6K5-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/block-gallery.json",
+                    "name": "Block: Gallery"
+                }
+            ],
+            "filesize": 86533,
+            "dimensions": [
+                2000,
+                1335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/ru\/two-cups-of-masala-tea-XMWZ6K5"
+        },
+        {
+            "filename": "japanese-tea-XMVP4H7-scaled.jpg",
+            "thumbnail_url": "https:\/\/tabit-elementor.nelly-k.com\/wp-content\/uploads\/2020\/11\/japanese-tea-XMVP4H7-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/block-gallery.json",
+                    "name": "Block: Gallery"
+                }
+            ],
+            "filesize": 81545,
+            "dimensions": [
+                2000,
+                1334
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/ru\/japanese-tea-XMVP4H7"
+        },
+        {
+            "filename": "cup-of-matcha-tea-PD7YRAV-scaled.jpg",
+            "thumbnail_url": "https:\/\/tabit-elementor.nelly-k.com\/wp-content\/uploads\/2020\/11\/cup-of-matcha-tea-PD7YRAV-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/single-layout.json",
+                    "name": "Single Layout"
+                },
+                {
+                    "source": "templates\/block-gallery-single.json",
+                    "name": "Block: Gallery Single"
+                },
+                {
+                    "source": "templates\/block-gallery.json",
+                    "name": "Block: Gallery"
+                }
+            ],
+            "filesize": 135279,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/ru\/cup-of-matcha-tea-PD7YRAV"
+        },
+        {
+            "filename": "cup-of-green-tea-PRYKBVP-scaled.jpg",
+            "thumbnail_url": "https:\/\/tabit-elementor.nelly-k.com\/wp-content\/uploads\/2020\/11\/cup-of-green-tea-PRYKBVP-600x900.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-layout.json",
+                    "name": "Single Layout"
+                },
+                {
+                    "source": "templates\/block-gallery-single.json",
+                    "name": "Block: Gallery Single"
+                }
+            ],
+            "filesize": 135676,
+            "dimensions": [
+                1334,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/ru\/cup-of-green-tea-PRYKBVP"
+        },
+        {
+            "filename": "cup-of-green-tea-PKRUXPJ-scaled.jpg",
+            "thumbnail_url": "https:\/\/tabit-elementor.nelly-k.com\/wp-content\/uploads\/2020\/11\/cup-of-green-tea-PKRUXPJ-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-layout.json",
+                    "name": "Single Layout"
+                },
+                {
+                    "source": "templates\/block-gallery-single.json",
+                    "name": "Block: Gallery Single"
+                }
+            ],
+            "filesize": 122993,
+            "dimensions": [
+                2000,
+                1334
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/ru\/cup-of-green-tea-PKRUXPJ"
+        },
+        {
+            "filename": "cup-of-matcha-tea-PU4DZ55-scaled.jpg",
+            "thumbnail_url": "https:\/\/tabit-elementor.nelly-k.com\/wp-content\/uploads\/2020\/11\/cup-of-matcha-tea-PU4DZ55-600x900.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-layout.json",
+                    "name": "Single Layout"
+                },
+                {
+                    "source": "templates\/block-gallery-single.json",
+                    "name": "Block: Gallery Single"
+                }
+            ],
+            "filesize": 136330,
+            "dimensions": [
+                1334,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/ru\/cup-of-matcha-tea-PU4DZ55"
+        }
+    ]
+}
